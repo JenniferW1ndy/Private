@@ -3746,7 +3746,7 @@ end
         Name = "Misc Farm"
     })
 
-    M:AddParagraph("Redeem Code","Redeem Fuck Code =))")
+    M:AddParagraph("Redeem Code","Redeem Fuck Code")
 
     local x2Code = {
         "JULYUPDATE_RESET",
